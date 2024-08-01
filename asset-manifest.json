@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Multi-step-form-main--React-Tailwind-Ts/static/css/main.ab9c895d.css",
+    "main.js": "/Multi-step-form-main--React-Tailwind-Ts/static/js/main.68d51cec.js",
+    "static/media/bg-sidebar-desktop.svg": "/Multi-step-form-main--React-Tailwind-Ts/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
+    "static/media/bg-sidebar-mobile.svg": "/Multi-step-form-main--React-Tailwind-Ts/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a.svg",
+    "index.html": "/Multi-step-form-main--React-Tailwind-Ts/index.html",
+    "main.ab9c895d.css.map": "/Multi-step-form-main--React-Tailwind-Ts/static/css/main.ab9c895d.css.map",
+    "main.68d51cec.js.map": "/Multi-step-form-main--React-Tailwind-Ts/static/js/main.68d51cec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab9c895d.css",
+    "static/js/main.68d51cec.js"
+  ]
+}
